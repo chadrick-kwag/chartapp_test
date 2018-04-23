@@ -1,9 +1,6 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import fusioncharts from 'fusioncharts';
-// Load the charts module
-import charts from 'fusioncharts/fusioncharts.charts';
-import react-fusioncharts from 'react-fusioncharts';
+import React, { Component } from 'react';
+import logo from './logo.svg';
+import './App.css';
 
 class App extends Component {
   render() {
