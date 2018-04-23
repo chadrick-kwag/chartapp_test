@@ -3,12 +3,17 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@amcharts/amcharts3-react": "^3.0.0",
     "ajv": "^6.4.0",
     "ajv-keywords": "^3.1.0",
     "chart.js": "^2.7.2",
     "fusioncharts": "^3.12.2",
+    "prop-types": "^15.6.1",
     "react": "^16.3.2",
+    "react-amcharts": "^1.0.0",
     "react-chartjs-2": "^2.7.0",
+    "react-d3": "^0.4.0",
+    "react-d3-zoom": "^1.1.2",
     "react-dom": "^16.3.2",
     "react-fusioncharts": "^1.0.5",
     "react-scripts": "1.1.4"
